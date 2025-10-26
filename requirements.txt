@@ -1,0 +1,8 @@
+gradio
+torch
+transformers
+diffusers
+accelerate
+huggingface_hub
+llama-cpp-python
+duckduckgo-search
